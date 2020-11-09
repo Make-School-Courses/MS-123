@@ -27,7 +27,7 @@ Explain why students should care to learn the material presented in this class.
 
 **Course Delivery**: online / hybrid / residential | 7 weeks | 14 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours.
 
 ## Learning Outcomes
 
@@ -249,7 +249,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 <!-- tabs:end -->
 
-## Assignment Schedule 
+## Assignment Schedule
 
 **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
 
@@ -282,7 +282,9 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
+test lololol
+
+- Complete all required assignments
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment according to the rubric as specified in this class
     - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
